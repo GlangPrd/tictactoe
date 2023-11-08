@@ -1,3 +1,10 @@
+#include <stdio.h>
+int main() {
+   printf("Glang#5676");
+   return 0;
+}
+
+
 <!-- # ⭕ Tic-Tac-Toe -->
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
